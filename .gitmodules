@@ -1,0 +1,3 @@
+[submodule "Assets/ShurikenPlus"]
+	path = Assets/ShurikenPlus
+	url = https://github.com/keijiro/ShurikenPlus.git
